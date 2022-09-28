@@ -1,0 +1,49 @@
+root@6b1639e4e0fb:/# git clone ttps://ghp_UVLBcdb1K
+
+KDSOw3onOQzGCaVYKc3pz2nOo4D@github.com/NjeriKiarie/
+
+alx-pre_course.git                                 
+
+Cloning into alx-pre_course...                   
+
+fatal: unable to find remote helper for ttps     
+
+root@6b1639e4e0fb:/# git clone https://ghp_UVLBcdb1
+
+KKDSOw3onOQzGCaVYKc3pz2nOo4D@github.com/NjeriKiarie
+
+/alx-pre_course.git                                
+
+Cloning into alx-pre_course...                   
+
+remote: Enumerating objects: 31, done.             
+
+remote: Counting objects: 100% (31/31), done.      
+
+remote: Compressing objects: 100% (19/19), done.   
+
+remote: Total 31 (delta 2), reused 26 (delta 0), pa
+
+ck-reused 0                                        
+
+Unpacking objects: 100% (31/31), 2.78 KiB | 259.00 
+
+KiB/s, done.                                       
+
+root@6b1639e4e0fb:/# cd alx-pre_course             
+
+root@6b1639e4e0fb:/alx-pre_course# ls              
+
+0x01-git  README.md                                
+
+root@6b1639e4e0fb:/alx-pre_course# cat README.md   
+
+my first readme                                    
+
+– and only for this task –                         
+
+root@6b1639e4e0fb:/alx-pre_course# touch up_to_date
+
+root@6b1639e4e0fb:/alx-pre_course# ls              
+
+0x01-git  README.md  up_to_date
